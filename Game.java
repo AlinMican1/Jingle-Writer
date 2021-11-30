@@ -11,9 +11,7 @@ class Game {
     for (int i = 0; i < 5; i++) {
       int rand_int1 = rand.nextInt(7);
       char note = (char) ('A' + rand_int1);
-      for (int j = 0; j < 5; j++) {
-        RandomNotes[j] = note;
-      }
+      RandomNotes[j] = note; 
     }
     solution = new Melody(RandomNotes);
   }
