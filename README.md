@@ -10,7 +10,7 @@ Order: Whether the notes you guessed are in the correct order.
 Correct: Whether the current note you guessed is correct.
 Based on this feedback, you can use your deduction skills to refine your subsequent guesses and aim for the perfect jingle!
 
-#Getting Started
+# Getting Started
 To run the game locally, follow these steps:
 
 Clone this repository to your local machine.
